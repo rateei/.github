@@ -71,4 +71,4 @@ flowchart TD
 
 ---
 
-**Rateei** - Transformando a forma como compramos juntos 🚀
+**Rateei** - Transformando a forma como economizamos
